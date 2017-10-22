@@ -18,7 +18,7 @@
 
 PKG_NAME="syslinux"
 PKG_VERSION="6.03"
-PKG_ARCH="x86_64"
+PKG_ARCH="x86_64 i386"
 PKG_LICENSE="GPL"
 PKG_SITE="http://syslinux.zytor.com/"
 PKG_URL="http://www.kernel.org/pub/linux/utils/boot/$PKG_NAME/$PKG_NAME-$PKG_VERSION.tar.xz"

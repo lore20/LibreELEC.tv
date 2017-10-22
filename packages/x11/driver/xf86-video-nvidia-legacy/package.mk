@@ -18,7 +18,7 @@
 
 PKG_NAME="xf86-video-nvidia-legacy"
 PKG_VERSION="340.104"
-PKG_ARCH="x86_64"
+PKG_ARCH="x86_64 i386"
 PKG_LICENSE="nonfree"
 PKG_SITE="http://www.nvidia.com/"
 PKG_URL="http://us.download.nvidia.com/XFree86/Linux-x86_64/$PKG_VERSION/NVIDIA-Linux-x86_64-$PKG_VERSION-no-compat32.run"

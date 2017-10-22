@@ -19,7 +19,7 @@
 PKG_NAME="tigervnc"
 PKG_VERSION="1.7.1"
 PKG_REV="101"
-PKG_ARCH="x86_64"
+PKG_ARCH="x86_64 i386"
 PKG_LICENSE="GPLv2"
 PKG_SITE="http://www.tigervnc.org"
 PKG_URL="https://github.com/TigerVNC/tigervnc/archive/v$PKG_VERSION.tar.gz"

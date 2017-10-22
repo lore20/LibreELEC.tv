@@ -18,7 +18,7 @@
 
 PKG_NAME="lm_sensors"
 PKG_VERSION="0d5ccf6"
-PKG_ARCH="arm x86_64"
+PKG_ARCH="arm x86_64 i386"
 PKG_LICENSE="GPL"
 PKG_SITE="http://secure.netroedge.com/~lm78/"
 PKG_URL="https://github.com/groeck/lm-sensors/archive/${PKG_VERSION}.tar.gz"

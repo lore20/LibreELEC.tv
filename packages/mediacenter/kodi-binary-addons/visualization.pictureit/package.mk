@@ -19,7 +19,7 @@
 PKG_NAME="visualization.pictureit"
 PKG_VERSION="8eb74a6"
 PKG_REV="1"
-PKG_ARCH="x86_64"
+PKG_ARCH="x86_64 i386"
 PKG_LICENSE="GPL"
 PKG_SITE="http://www.kodi.tv"
 PKG_URL="https://github.com/linuxwhatelse/visualization.pictureit/archive/$PKG_VERSION.tar.gz"
